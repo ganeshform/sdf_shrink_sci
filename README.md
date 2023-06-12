@@ -1,4 +1,8 @@
-# sdf
+# sdf_shrink_sci
+
+Custom fork of sdf by Ganesh Pimpale
+
+---
 
 Generate 3D meshes based on SDFs (signed distance functions) with a
 dirt simple Python API.
